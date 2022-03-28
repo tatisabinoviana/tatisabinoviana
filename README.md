@@ -1,8 +1,18 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/cn2LKatpvy89MTVR3e/giphy.gif" width="200"/>
 </div>
-
-### Hi there 👋
+<div id="badges" align="center">
+  <a href="https://www.linkedin.com/in/tatisabinoviana/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <br>
+  <img src="https://komarev.com/ghpvc/?username=tatisabinoviana&style=flat-square&color=blue" alt=""/>
+</div id="komarev" align="center">
+</div>
+<h1>
+  Olá, fique a vontade! 
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+</h1>
 
 <!--
 **tatisabinoviana/tatisabinoviana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
