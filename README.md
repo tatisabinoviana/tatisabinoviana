@@ -17,6 +17,18 @@
   <img src="https://media.giphy.com/media/icpLKSDOe4M8g/giphy.gif" width="500" height="300"/>
 </div>
 
+  ## Meu progresso de aprendizagem tem sido nas seguintes tecnologias:
+   🧡 Html5 
+   <br>
+   🧡 CSS3
+   <br>
+   🧡 Typescript
+   <br>
+   🧡 Angular
+   <br>
+   🧡 Java
+
+
 <!--
 **tatisabinoviana/tatisabinoviana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
