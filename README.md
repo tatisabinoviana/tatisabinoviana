@@ -24,6 +24,8 @@
    <br>
    🧡 Typescript
    <br>
+   🧡 React
+   <br>
    🧡 Angular
    <br>
    🧡 Java
